@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "title": "Python Backend Intern",
+    "company": "TechNova",
+    "location": "Gurugram",
+    "skills": "Python, FastAPI, SQL, REST APIs",
+    "description": "Build and maintain REST APIs, write SQL queries and work with databases."
+  },
+  {
+    "id": 2,
+    "title": "Python Backend Intern",
+    "company": "DataLeaf",
+    "location": "Bengaluru",
+    "skills": "Python, FastAPI, SQL, REST APIs",
+    "description": "Build and maintain REST APIs, write SQL queries and work with databases."
+  },
+  {
+    "id": 3,
+    "title": "Python Backend Intern",
+    "company": "CloudNest",
+    "location": "Remote",
+    "skills": "Python, FastAPI, SQL, REST APIs",
+    "description": "Build and maintain REST APIs, write SQL queries and work with databases."
+  },
+  {
+    "id": 4,
+    "title": "Python Backend Intern",
+    "company": "CodeBridge",
+    "location": "Indore",
+    "skills": "Python, FastAPI, SQL, REST APIs",
+    "description": "Build and maintain REST APIs, write SQL queries and work with databases."
+  },
+  {
+    "id": 5,
+    "title": "Python Backend Intern",
+    "company": "AppForge",
+    "location": "Bhopal",
+    "skills": "Python, FastAPI, SQL, REST APIs",
+    "description": "Build and maintain REST APIs, write SQL queries and work with databases."
+  },
+  {
+    "id": 6,
+    "title": "Frontend Developer Intern",
+    "company": "TechNova",
+    "location": "Gurugram",
+    "skills": "React, JavaScript, CSS",
+    "description": "Build responsive user interfaces and connect them to backend APIs."
+  },
+  {
+    "id": 7,
+    "title": "Frontend Developer Intern",
+    "company": "DataLeaf",
+    "location": "Bengaluru",
+    "skills": "React, JavaScript, CSS",
+    "description": "Build responsive user interfaces and connect them to backend APIs."
+  },
+  {
+    "id": 8,
+    "title": "Frontend Developer Intern",
+    "company": "CloudNest",
+    "location": "Remote",
+    "skills": "React, JavaScript, CSS",
+    "description": "Build responsive user interfaces and connect them to backend APIs."
+  },
+  {
+    "id": 9,
+    "title": "Frontend Developer Intern",
+    "company": "CodeBridge",
+    "location": "Indore",
+    "skills": "React, JavaScript, CSS",
+    "description": "Build responsive user interfaces and connect them to backend APIs."
+  },
+  {
+    "id": 10,
+    "title": "Frontend Developer Intern",
+    "company": "AppForge",
+    "location": "Bhopal",
+    "skills": "React, JavaScript, CSS",
+    "description": "Build responsive user interfaces and connect them to backend APIs."
+  },
+  {
+    "id": 11,
+    "title": "Data Analyst Intern",
+    "company": "TechNova",
+    "location": "Gurugram",
+    "skills": "SQL, Excel, Power BI, Python",
+    "description": "Analyze data, build dashboards and share insights with the team."
+  },
+  {
+    "id": 12,
+    "title": "Data Analyst Intern",
+    "company": "DataLeaf",
+    "location": "Bengaluru",
+    "skills": "SQL, Excel, Power BI, Python",
+    "description": "Analyze data, build dashboards and share insights with the team."
+  },
+  {
+    "id": 13,
+    "title": "Data Analyst Intern",
+    "company": "CloudNest",
+    "location": "Remote",
+    "skills": "SQL, Excel, Power BI, Python",
+    "description": "Analyze data, build dashboards and share insights with the team."
+  },
+  {
+    "id": 14,
+    "title": "Data Analyst Intern",
+    "company": "CodeBridge",
+    "location": "Indore",
+    "skills": "SQL, Excel, Power BI, Python",
+    "description": "Analyze data, build dashboards and share insights with the team."
+  },
+  {
+    "id": 15,
+    "title": "Data Analyst Intern",
+    "company": "AppForge",
+    "location": "Bhopal",
+    "skills": "SQL, Excel, Power BI, Python",
+    "description": "Analyze data, build dashboards and share insights with the team."
+  },
+  {
+    "id": 16,
+    "title": "Machine Learning Intern",
+    "company": "TechNova",
+    "location": "Gurugram",
+    "skills": "Python, scikit-learn, pandas, NumPy",
+    "description": "Train and evaluate machine learning models and clean datasets."
+  },
+  {
+    "id": 17,
+    "title": "Machine Learning Intern",
+    "company": "DataLeaf",
+    "location": "Bengaluru",
+    "skills": "Python, scikit-learn, pandas, NumPy",
+    "description": "Train and evaluate machine learning models and clean datasets."
+  },
+  {
+    "id": 18,
+    "title": "Machine Learning Intern",
+    "company": "CloudNest",
+    "location": "Remote",
+    "skills": "Python, scikit-learn, pandas, NumPy",
+    "description": "Train and evaluate machine learning models and clean datasets."
+  },
+  {
+    "id": 19,
+    "title": "Machine Learning Intern",
+    "company": "CodeBridge",
+    "location": "Indore",
+    "skills": "Python, scikit-learn, pandas, NumPy",
+    "description": "Train and evaluate machine learning models and clean datasets."
+  },
+  {
+    "id": 20,
+    "title": "Machine Learning Intern",
+    "company": "AppForge",
+    "location": "Bhopal",
+    "skills": "Python, scikit-learn, pandas, NumPy",
+    "description": "Train and evaluate machine learning models and clean datasets."
+  },
+  {
+    "id": 21,
+    "title": "LLM Engineer Intern",
+    "company": "TechNova",
+    "location": "Gurugram",
+    "skills": "LLMs, prompting, RAG, embeddings, Python",
+    "description": "Build LLM-powered agents with tool calling and retrieval."
+  },
+  {
+    "id": 22,
+    "title": "LLM Engineer Intern",
+    "company": "DataLeaf",
+    "location": "Bengaluru",
+    "skills": "LLMs, prompting, RAG, embeddings, Python",
+    "description": "Build LLM-powered agents with tool calling and retrieval."
+  },
+  {
+    "id": 23,
+    "title": "LLM Engineer Intern",
+    "company": "CloudNest",
+    "location": "Remote",
+    "skills": "LLMs, prompting, RAG, embeddings, Python",
+    "description": "Build LLM-powered agents with tool calling and retrieval."
+  },
+  {
+    "id": 24,
+    "title": "LLM Engineer Intern",
+    "company": "CodeBridge",
+    "location": "Indore",
+    "skills": "LLMs, prompting, RAG, embeddings, Python",
+    "description": "Build LLM-powered agents with tool calling and retrieval."
+  },
+  {
+    "id": 25,
+    "title": "LLM Engineer Intern",
+    "company": "AppForge",
+    "location": "Bhopal",
+    "skills": "LLMs, prompting, RAG, embeddings, Python",
+    "description": "Build LLM-powered agents with tool calling and retrieval."
+  },
+  {
+    "id": 26,
+    "title": "DevOps Intern",
+    "company": "TechNova",
+    "location": "Gurugram",
+    "skills": "Docker, Linux, CI/CD, AWS",
+    "description": "Automate deployments and monitor cloud infrastructure."
+  },
+  {
+    "id": 27,
+    "title": "DevOps Intern",
+    "company": "DataLeaf",
+    "location": "Bengaluru",
+    "skills": "Docker, Linux, CI/CD, AWS",
+    "description": "Automate deployments and monitor cloud infrastructure."
+  },
+  {
+    "id": 28,
+    "title": "DevOps Intern",
+    "company": "CloudNest",
+    "location": "Remote",
+    "skills": "Docker, Linux, CI/CD, AWS",
+    "description": "Automate deployments and monitor cloud infrastructure."
+  },
+  {
+    "id": 29,
+    "title": "DevOps Intern",
+    "company": "CodeBridge",
+    "location": "Indore",
+    "skills": "Docker, Linux, CI/CD, AWS",
+    "description": "Automate deployments and monitor cloud infrastructure."
+  },
+  {
+    "id": 30,
+    "title": "DevOps Intern",
+    "company": "AppForge",
+    "location": "Bhopal",
+    "skills": "Docker, Linux, CI/CD, AWS",
+    "description": "Automate deployments and monitor cloud infrastructure."
+  },
+  {
+    "id": 31,
+    "title": "Android Developer Intern",
+    "company": "TechNova",
+    "location": "Gurugram",
+    "skills": "Kotlin, Android, REST APIs",
+    "description": "Build Android app features and fix bugs."
+  },
+  {
+    "id": 32,
+    "title": "Android Developer Intern",
+    "company": "DataLeaf",
+    "location": "Bengaluru",
+    "skills": "Kotlin, Android, REST APIs",
+    "description": "Build Android app features and fix bugs."
+  },
+  {
+    "id": 33,
+    "title": "Android Developer Intern",
+    "company": "CloudNest",
+    "location": "Remote",
+    "skills": "Kotlin, Android, REST APIs",
+    "description": "Build Android app features and fix bugs."
+  },
+  {
+    "id": 34,
+    "title": "Android Developer Intern",
+    "company": "CodeBridge",
+    "location": "Indore",
+    "skills": "Kotlin, Android, REST APIs",
+    "description": "Build Android app features and fix bugs."
+  },
+  {
+    "id": 35,
+    "title": "Android Developer Intern",
+    "company": "AppForge",
+    "location": "Bhopal",
+    "skills": "Kotlin, Android, REST APIs",
+    "description": "Build Android app features and fix bugs."
+  },
+  {
+    "id": 36,
+    "title": "QA Automation Intern",
+    "company": "TechNova",
+    "location": "Gurugram",
+    "skills": "Selenium, Python, testing",
+    "description": "Write automated tests and report bugs."
+  },
+  {
+    "id": 37,
+    "title": "QA Automation Intern",
+    "company": "DataLeaf",
+    "location": "Bengaluru",
+    "skills": "Selenium, Python, testing",
+    "description": "Write automated tests and report bugs."
+  },
+  {
+    "id": 38,
+    "title": "QA Automation Intern",
+    "company": "CloudNest",
+    "location": "Remote",
+    "skills": "Selenium, Python, testing",
+    "description": "Write automated tests and report bugs."
+  },
+  {
+    "id": 39,
+    "title": "QA Automation Intern",
+    "company": "CodeBridge",
+    "location": "Indore",
+    "skills": "Selenium, Python, testing",
+    "description": "Write automated tests and report bugs."
+  },
+  {
+    "id": 40,
+    "title": "QA Automation Intern",
+    "company": "AppForge",
+    "location": "Bhopal",
+    "skills": "Selenium, Python, testing",
+    "description": "Write automated tests and report bugs."
+  },
+  {
+    "id": 41,
+    "title": "Full Stack Developer Intern",
+    "company": "TechNova",
+    "location": "Gurugram",
+    "skills": "React, Node.js, MongoDB",
+    "description": "Build features end to end across frontend and backend."
+  },
+  {
+    "id": 42,
+    "title": "Full Stack Developer Intern",
+    "company": "DataLeaf",
+    "location": "Bengaluru",
+    "skills": "React, Node.js, MongoDB",
+    "description": "Build features end to end across frontend and backend."
+  },
+  {
+    "id": 43,
+    "title": "Full Stack Developer Intern",
+    "company": "CloudNest",
+    "location": "Remote",
+    "skills": "React, Node.js, MongoDB",
+    "description": "Build features end to end across frontend and backend."
+  },
+  {
+    "id": 44,
+    "title": "Full Stack Developer Intern",
+    "company": "CodeBridge",
+    "location": "Indore",
+    "skills": "React, Node.js, MongoDB",
+    "description": "Build features end to end across frontend and backend."
+  },
+  {
+    "id": 45,
+    "title": "Full Stack Developer Intern",
+    "company": "AppForge",
+    "location": "Bhopal",
+    "skills": "React, Node.js, MongoDB",
+    "description": "Build features end to end across frontend and backend."
+  },
+  {
+    "id": 46,
+    "title": "Cybersecurity Intern",
+    "company": "TechNova",
+    "location": "Gurugram",
+    "skills": "networking, Linux, Wireshark",
+    "description": "Help with vulnerability scans and security monitoring."
+  },
+  {
+    "id": 47,
+    "title": "Cybersecurity Intern",
+    "company": "DataLeaf",
+    "location": "Bengaluru",
+    "skills": "networking, Linux, Wireshark",
+    "description": "Help with vulnerability scans and security monitoring."
+  },
+  {
+    "id": 48,
+    "title": "Cybersecurity Intern",
+    "company": "CloudNest",
+    "location": "Remote",
+    "skills": "networking, Linux, Wireshark",
+    "description": "Help with vulnerability scans and security monitoring."
+  },
+  {
+    "id": 49,
+    "title": "Cybersecurity Intern",
+    "company": "CodeBridge",
+    "location": "Indore",
+    "skills": "networking, Linux, Wireshark",
+    "description": "Help with vulnerability scans and security monitoring."
+  },
+  {
+    "id": 50,
+    "title": "Cybersecurity Intern",
+    "company": "AppForge",
+    "location": "Bhopal",
+    "skills": "networking, Linux, Wireshark",
+    "description": "Help with vulnerability scans and security monitoring."
+  }
+]
